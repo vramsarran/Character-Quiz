@@ -1,0 +1,116 @@
+h1{
+    text-align: center;
+    font-family: "Permanent Marker";
+    font-size: 50px ;
+    color: purple;
+}
+
+p{
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+    font-family: "Black Ops One";
+    margin:100px 10px 50px 2px;
+}
+
+
+
+
+html{
+    background-image: url("https://i.pinimg.com/originals/e5/7a/29/e57a29d29399922bd29bc220ce794a42.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    
+}
+input{
+    margin: 15px auto;
+    position: center;
+    padding: 10px;
+    width: 200px;
+    height: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    font-size: 15px;
+    font-family: "Black Ops One";
+    text-align: center;
+    margin: 25px auto;
+    padding: 10px;
+    width: 120px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+img{
+    margin: 10px auto;
+    position: center;
+}
+
+div{
+    font-size: 20px;
+    font-family: "Black Ops One";
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
